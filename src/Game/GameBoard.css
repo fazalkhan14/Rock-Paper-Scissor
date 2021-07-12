@@ -1,0 +1,19 @@
+.playAgain{
+    width: 6rem;
+    height: 2.5rem;
+    text-align: center;
+    background: #FFFFFF;
+    border: none;
+    cursor: pointer;
+}
+
+.playAgain p{
+    color: #1f3756;
+    font-size: 0.7rem;
+    letter-spacing: 0.1rem;
+    padding: 0.8rem;
+}
+
+.playAgain p:hover{
+color: rgb(218, 40, 69);
+}

@@ -1,0 +1,17 @@
+.button{
+    margin-right: 3rem;
+    border-radius: 5px;
+    border: 1px solid #AFB3C2;
+    background: transparent;
+    position: fixed;
+    left: 90%;
+    top: 90%;
+}
+.button p{
+    text-align: center;
+    padding: 0.4rem 0.7rem;
+    margin: 0;
+    letter-spacing: 0.1rem;
+    font-size: 0.8rem;
+    color: #FFFF;
+}

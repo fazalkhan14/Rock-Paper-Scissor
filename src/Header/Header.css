@@ -1,0 +1,26 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.score-card{
+  padding: 0 2rem 0 2rem;
+  background: #FFFFFF;
+  border: none;
+}
+
+.score-card p{
+  text-align: center;
+  color: hsl(229, 64%, 46%);
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  margin: 1rem 0 0 0;
+}
+
+.score-card h1{
+  text-align: center;
+  color: hsl(229, 25%, 31%);
+  font-size: 3.5rem;
+  margin: 0 0 0.5rem 0;
+}
